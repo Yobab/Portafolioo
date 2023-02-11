@@ -1,0 +1,22 @@
+body{
+    max-height: 1000px;
+}
+
+#content{
+    background-image: url("images/laptop.png");
+    height: 750px;
+    width: 750px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size:15px;
+    color:cadetblue;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color:cadetblue;
+}
